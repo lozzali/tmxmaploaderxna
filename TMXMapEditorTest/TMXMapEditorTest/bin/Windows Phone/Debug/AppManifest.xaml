@@ -1,0 +1,6 @@
+﻿<Deployment xmlns="http://schemas.microsoft.com/client/2007/deployment" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" EntryPointAssembly="TMXMapEditorTest" EntryPointType="TMXMapEditorTest.Game1" RuntimeVersion="3.0">
+  <Deployment.Parts>
+    <AssemblyPart x:Name="TMXMapEditorTest" Source="TMXMapEditorTest.dll" />
+    <AssemblyPart x:Name="GameTMXObjects" Source="GameTMXObjects.dll" />
+  </Deployment.Parts>
+</Deployment>

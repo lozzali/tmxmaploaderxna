@@ -1,0 +1,7 @@
+D:\My Documents\windowsphonedevelopments\TMXMapLoaderXNA\TMXMapLoaderXNA\DebugTMXContentPipeline\bin\Debug\Targets\Debugging.targets
+D:\My Documents\windowsphonedevelopments\TMXMapLoaderXNA\TMXMapLoaderXNA\DebugTMXContentPipeline\bin\Debug\DebugPipeline1.exe.config
+D:\My Documents\windowsphonedevelopments\TMXMapLoaderXNA\TMXMapLoaderXNA\DebugTMXContentPipeline\bin\Debug\DebugPipeline1.exe
+D:\My Documents\windowsphonedevelopments\TMXMapLoaderXNA\TMXMapLoaderXNA\DebugTMXContentPipeline\bin\Debug\DebugPipeline1.pdb
+D:\My Documents\windowsphonedevelopments\TMXMapLoaderXNA\TMXMapLoaderXNA\DebugTMXContentPipeline\obj\x86\Debug\DebugTMXContentPipeline.csprojResolveAssemblyReference.cache
+D:\My Documents\windowsphonedevelopments\TMXMapLoaderXNA\TMXMapLoaderXNA\DebugTMXContentPipeline\obj\x86\Debug\DebugPipeline1.exe
+D:\My Documents\windowsphonedevelopments\TMXMapLoaderXNA\TMXMapLoaderXNA\DebugTMXContentPipeline\obj\x86\Debug\DebugPipeline1.pdb

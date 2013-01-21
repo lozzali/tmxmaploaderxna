@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline" xmlns:Processors="Microsoft.Xna.Framework.Content.Pipeline.Processors" xmlns:Framework="Microsoft.Xna.Framework">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>desert.tmx</Source>
+      <Name>desert</Name>
+      <Importer>TMXContentImporter</Importer>
+      <Processor>TMXContentProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\My Documents\windowsphonedevelopments\TMXMapLoaderXNA\TMXMapLoaderXNA\TMXMapEditorTest\TMXMapEditorTest\bin\Windows Phone\Debug\Content\desert.xnb</Output>
+      <Time>2012-10-17T01:40:08+01:00</Time>
+      <Request>D:\My Documents\windowsphonedevelopments\TMXMapLoaderXNA\TMXMapLoaderXNA\TMXMapEditorTest\TMXMapEditorTest\bin\Windows Phone\Debug\Content\tmw_desert_spacing.xnb</Request>
+    </Item>
+    <Item>
+      <Source>sewers.tmx</Source>
+      <Name>sewers</Name>
+      <Importer>TMXContentImporter</Importer>
+      <Processor>TMXContentProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\My Documents\windowsphonedevelopments\TMXMapLoaderXNA\TMXMapLoaderXNA\TMXMapEditorTest\TMXMapEditorTest\bin\Windows Phone\Debug\Content\sewers.xnb</Output>
+      <Time>2011-12-27T19:02:38+00:00</Time>
+      <Request>D:\My Documents\windowsphonedevelopments\TMXMapLoaderXNA\TMXMapLoaderXNA\TMXMapEditorTest\TMXMapEditorTest\bin\Windows Phone\Debug\Content\sewer_tileset.xnb</Request>
+    </Item>
+    <Item>
+      <Source>isometric.tmx</Source>
+      <Name>isometric</Name>
+      <Importer>TMXContentImporter</Importer>
+      <Processor>TMXContentProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\My Documents\windowsphonedevelopments\TMXMapLoaderXNA\TMXMapLoaderXNA\TMXMapEditorTest\TMXMapEditorTest\bin\Windows Phone\Debug\Content\isometric.xnb</Output>
+      <Time>2012-10-17T01:53:02+01:00</Time>
+      <Request>D:\My Documents\windowsphonedevelopments\TMXMapLoaderXNA\TMXMapLoaderXNA\TMXMapEditorTest\TMXMapEditorTest\bin\Windows Phone\Debug\Content\isometric_grass_and_water.xnb</Request>
+    </Item>
+    <Item>
+      <Source>tmw_desert_spacing.png</Source>
+      <Name>tmw_desert_spacing</Name>
+      <Importer>TextureImporter</Importer>
+      <Parameters>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">Color</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">false</Data>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\My Documents\windowsphonedevelopments\TMXMapLoaderXNA\TMXMapLoaderXNA\TMXMapEditorTest\TMXMapEditorTest\bin\Windows Phone\Debug\Content\tmw_desert_spacing.xnb</Output>
+      <Time>2011-12-27T19:02:38+00:00</Time>
+    </Item>
+    <Item>
+      <Source>sewer_tileset.png</Source>
+      <Name>sewer_tileset</Name>
+      <Importer>TextureImporter</Importer>
+      <Parameters>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">Color</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\My Documents\windowsphonedevelopments\TMXMapLoaderXNA\TMXMapLoaderXNA\TMXMapEditorTest\TMXMapEditorTest\bin\Windows Phone\Debug\Content\sewer_tileset.xnb</Output>
+      <Time>2011-12-27T19:02:38+00:00</Time>
+    </Item>
+    <Item>
+      <Source>isometric_grass_and_water.png</Source>
+      <Name>isometric_grass_and_water</Name>
+      <Importer>TextureImporter</Importer>
+      <Parameters>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">Color</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">false</Data>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\My Documents\windowsphonedevelopments\TMXMapLoaderXNA\TMXMapLoaderXNA\TMXMapEditorTest\TMXMapEditorTest\bin\Windows Phone\Debug\Content\isometric_grass_and_water.xnb</Output>
+      <Time>2011-12-27T19:02:38+00:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{D03F19A4-9E93-4D06-85EA-093A181B7C85}</ContentProjectGUID>
+      <TargetPlatform>WindowsPhone</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>D:\My Documents\windowsphonedevelopments\TMXMapLoaderXNA\TMXMapLoaderXNA\TMXMapEditorTest\TMXMapEditorTestContent\</RootDirectory>
+      <LoggerRootDirectory>D:\My Documents\windowsphonedevelopments\TMXMapLoaderXNA\TMXMapLoaderXNA\TMXMapEditorTest\TMXMapEditorTest\</LoggerRootDirectory>
+      <IntermediateDirectory>D:\My Documents\windowsphonedevelopments\TMXMapLoaderXNA\TMXMapLoaderXNA\TMXMapEditorTest\TMXMapEditorTest\obj\Windows Phone\Debug\</IntermediateDirectory>
+      <OutputDirectory>D:\My Documents\windowsphonedevelopments\TMXMapLoaderXNA\TMXMapLoaderXNA\TMXMapEditorTest\TMXMapEditorTest\bin\Windows Phone\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>D:\My Documents\windowsphonedevelopments\TMXMapLoaderXNA\TMXMapLoaderXNA\TMXContentPipeline\bin\x86\Debug\TMXContentPipeline.dll</Key>
+        <Value>2012-12-05T02:02:51.273112+00:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2012-09-06T15:52:54+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2012-09-06T15:52:54+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2012-09-06T15:52:54+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2012-09-06T15:52:54+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2012-09-06T15:52:54+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2012-09-06T15:52:54+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-10-31T00:41:05.7119759+00:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

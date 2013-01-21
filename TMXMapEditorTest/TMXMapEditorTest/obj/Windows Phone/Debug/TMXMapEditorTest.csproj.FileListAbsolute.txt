@@ -1,0 +1,20 @@
+D:\My Documents\windowsphonedevelopments\TMXMapLoaderXNA\TMXMapLoaderXNA\TMXMapEditorTest\TMXMapEditorTest\bin\Windows Phone\Debug\Content\desert.xnb
+D:\My Documents\windowsphonedevelopments\TMXMapLoaderXNA\TMXMapLoaderXNA\TMXMapEditorTest\TMXMapEditorTest\bin\Windows Phone\Debug\Content\sewers.xnb
+D:\My Documents\windowsphonedevelopments\TMXMapLoaderXNA\TMXMapLoaderXNA\TMXMapEditorTest\TMXMapEditorTest\bin\Windows Phone\Debug\Content\isometric.xnb
+D:\My Documents\windowsphonedevelopments\TMXMapLoaderXNA\TMXMapLoaderXNA\TMXMapEditorTest\TMXMapEditorTest\bin\Windows Phone\Debug\Content\tmw_desert_spacing.xnb
+D:\My Documents\windowsphonedevelopments\TMXMapLoaderXNA\TMXMapLoaderXNA\TMXMapEditorTest\TMXMapEditorTest\bin\Windows Phone\Debug\Content\sewer_tileset.xnb
+D:\My Documents\windowsphonedevelopments\TMXMapLoaderXNA\TMXMapLoaderXNA\TMXMapEditorTest\TMXMapEditorTest\bin\Windows Phone\Debug\Content\isometric_grass_and_water.xnb
+D:\My Documents\windowsphonedevelopments\TMXMapLoaderXNA\TMXMapLoaderXNA\TMXMapEditorTest\TMXMapEditorTest\bin\Windows Phone\Debug\TMXMapEditorTest.dll
+D:\My Documents\windowsphonedevelopments\TMXMapLoaderXNA\TMXMapLoaderXNA\TMXMapEditorTest\TMXMapEditorTest\bin\Windows Phone\Debug\TMXMapEditorTest.pdb
+D:\My Documents\windowsphonedevelopments\TMXMapLoaderXNA\TMXMapLoaderXNA\TMXMapEditorTest\TMXMapEditorTest\bin\Windows Phone\Debug\GameTMXObjects.dll
+D:\My Documents\windowsphonedevelopments\TMXMapLoaderXNA\TMXMapLoaderXNA\TMXMapEditorTest\TMXMapEditorTest\bin\Windows Phone\Debug\GameTMXObjects.pdb
+D:\My Documents\windowsphonedevelopments\TMXMapLoaderXNA\TMXMapLoaderXNA\TMXMapEditorTest\TMXMapEditorTest\obj\Windows Phone\Debug\TMXMapEditorTest.csprojResolveAssemblyReference.cache
+D:\My Documents\windowsphonedevelopments\TMXMapLoaderXNA\TMXMapLoaderXNA\TMXMapEditorTest\TMXMapEditorTest\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\My Documents\windowsphonedevelopments\TMXMapLoaderXNA\TMXMapLoaderXNA\TMXMapEditorTest\TMXMapEditorTest\obj\Windows Phone\Debug\TMXMapEditorTest.dll
+D:\My Documents\windowsphonedevelopments\TMXMapLoaderXNA\TMXMapLoaderXNA\TMXMapEditorTest\TMXMapEditorTest\obj\Windows Phone\Debug\TMXMapEditorTest.pdb
+D:\My Documents\windowsphonedevelopments\TMXMapLoaderXNA\TMXMapLoaderXNA\TMXMapEditorTest\TMXMapEditorTest\bin\Windows Phone\Debug\AppManifest.xaml
+D:\My Documents\windowsphonedevelopments\TMXMapLoaderXNA\TMXMapLoaderXNA\TMXMapEditorTest\TMXMapEditorTest\obj\Windows Phone\Debug\WMAppManifest.xml.g
+D:\My Documents\windowsphonedevelopments\TMXMapLoaderXNA\TMXMapLoaderXNA\TMXMapEditorTest\TMXMapEditorTest\obj\Windows Phone\Debug\WMAppManifest.xml
+bin\Windows Phone\Debug\
+D:\My Documents\windowsphonedevelopments\TMXMapLoaderXNA\TMXMapLoaderXNA\TMXMapEditorTest\TMXMapEditorTest\bin\Windows Phone\Debug\TMXMapEditorTest.xap
+D:\My Documents\windowsphonedevelopments\TMXMapLoaderXNA\TMXMapLoaderXNA\TMXMapEditorTest\TMXMapEditorTest\obj\Windows Phone\Debug\XapCacheFile.xml

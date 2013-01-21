@@ -1,0 +1,6 @@
+D:\My Documents\windowsphonedevelopments\TMXMapLoaderXNA\TMXMapLoaderXNA\TMXObjects\obj\Debug\TMXObjects.csprojResolveAssemblyReference.cache
+D:\My Documents\windowsphonedevelopments\TMXMapLoaderXNA\TMXMapLoaderXNA\TMXObjects\bin\Debug\TMXObjects2.dll
+D:\My Documents\windowsphonedevelopments\TMXMapLoaderXNA\TMXMapLoaderXNA\TMXObjects\bin\Debug\TMXObjects2.pdb
+D:\My Documents\windowsphonedevelopments\TMXMapLoaderXNA\TMXMapLoaderXNA\TMXObjects\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\My Documents\windowsphonedevelopments\TMXMapLoaderXNA\TMXMapLoaderXNA\TMXObjects\obj\Debug\TMXObjects2.dll
+D:\My Documents\windowsphonedevelopments\TMXMapLoaderXNA\TMXMapLoaderXNA\TMXObjects\obj\Debug\TMXObjects2.pdb
